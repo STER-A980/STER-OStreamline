@@ -1,4 +1,7 @@
-# STER-OStreamline
-速特科技 (STER) 发布的精简系统系列 (OStreamline) 的所有Windows产品，版权所有及最终解释权归速特科技 (STER) 所有
+官网：https://github.com/STER-A980
 
-All Windows products of OStreamline series released by STER are copyrighted and the final right of interpretation belongs to STER
+速特科技 (STER) 已于2022年7月17日入驻GitHub，并将其作为唯一发布产品的官方渠道，其他渠道发布的速特科技 (STER) 相关产品均为盗版侵权所作，且其内容均不视为速特科技 (STER) 所作，另如有发现，欢迎联系底部QQ反馈
+Ster has settled in GitHub on July 17, 2022 and takes it as the only official channel to release products. The related products of ster released by other channels are all made by piracy and infringement, and their contents are not considered to be made by ster. In addition, if you find anything, please contact QQ feedback at the bottom
+
+速特科技 (STER) 发布的精简系统系列 (OStreamline) ，版权及其最终解释权均归速特科技 (STER) 保留所有
+The copyright and final interpretation right of ostreamline released by ster are reserved by ster
